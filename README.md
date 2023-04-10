@@ -1,4 +1,4 @@
-# Ansible скрипт для балансировки серверов web1 и web2
+# Ansible script for balnce servers web1 and web2
 
 ### В Inventory хранятся конфигурации (web_servers, rrobin)
 
