@@ -21,6 +21,7 @@ ansible-playbook nginx.yml -  исполняет все tasks файлы все�
 ### 4) В браузере в строке вписываем ipшник balacner'а ставим ":" и после пишем порт 8080.
 ## Вывод:
 
-![изображение]()
-![изображение](![IMG_2618](https://user-images.githubusercontent.com/113581434/231001853-c3f8c4fd-69c5-4cfb-a495-3529e155a9ca.PNG)
-![изображение]()
+![image_2023-04-10_21-19-42](https://user-images.githubusercontent.com/113581434/231002014-aaed9abc-4269-436d-9729-64494916ef2a.png)
+![IMG_2618](https://user-images.githubusercontent.com/113581434/231001853-c3f8c4fd-69c5-4cfb-a495-3529e155a9ca.PNG)
+![IMG_2619](https://user-images.githubusercontent.com/113581434/231001965-e70c6fab-ed8b-41fd-b7b1-3747558ff0e9.PNG)
+
