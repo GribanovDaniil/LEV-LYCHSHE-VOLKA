@@ -26,7 +26,7 @@ Vagrant.configure("2") do |config|
             vb.customize ["modifyvm", :id, "--memory", "512"]
           end
           config.vm.provision "shell" do |s|
-			ssh_pub_key = File.readlines("/home/avedy/.ssh/id_rsa.pub").first.strip
+			ssh_pub_key = File.readlines("/home/dannnikn/.ssh/id_rsa.pub").first.strip
 			s.inline = <<-SHELL
 			mkdir -p /home/vagrant/.ssh
 			sudo mkdir -p /root/.ssh
