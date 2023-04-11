@@ -4,7 +4,7 @@
 
 ### VagrantFile нужен, чтобы быстро поднять виртуалки.
 
-### nginx.yml - это playbook для установки ПО (nginx) на сервера. Внутри него (плейбука) 3 роли: balancer, customer, selyavi. 
+### nginx.yml - это playbook для установки ПО (nginx) на сервера. Внутри него 3 роли: balancer, customer, selyavi. 
 
 balancer - собственно сам балансировщик (настраивает балансировщик в round robin);
 
